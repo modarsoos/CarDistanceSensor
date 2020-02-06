@@ -9,5 +9,7 @@ What you want for this project?
 05. *SSD1306 0.91 or 1.2 OLED Display (Optional)
 03. *DS3231 or DS1307 (Optional)
 04. *DHT22 or BME280 sensor (Optional)
-05. HSS hex shank Step Drill
+05. RGB Led (Optional)
 06. 12V to 5V 5A 25W Converter Buck Step Down Power Supply Module for Car
+07. HSS hex shank Step Drill
+08. Wire Cables
