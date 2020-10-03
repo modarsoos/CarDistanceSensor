@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <Arduino.h>
 #include <DS3231.h>
-#include <LiquidCrystal_I2C.h>
+#include <LiquidCrystal_I2C.h>      //https://github.com/modarsoos/LiquidCrystal_I2C
 #include <NewPing.h>
 #define ECHOPIN 12// Pin to receive echo pulse 12
 #define TRIGPIN 13// Pin to send trigger pulse 11
