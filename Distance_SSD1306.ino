@@ -30,7 +30,6 @@ void setup()
 
 void loop()
 {
-
   duration = sonar.ping_median(iterations);
   distance = (duration / 2) * 0.0343;
 
