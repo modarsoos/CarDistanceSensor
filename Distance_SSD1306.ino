@@ -58,7 +58,7 @@ void loop()
       u8g2.setCursor(100, 20);               // Best center text for 128 x 64
       u8g2.print("C M");
       u8g2.setFont(u8g2_font_emoticons21_tr);
-      u8g2.drawGlyph(5, 25, 0x0036);  /* dec 9731/hex 2603 Snowman */
+      u8g2.drawGlyph(5, 25, 0x0036);  /* hex 36 smily man */
     } while ( u8g2.nextPage() );
     delay(10);
   }
@@ -74,7 +74,7 @@ void loop()
       u8g2.setCursor(100, 20);               // Best center text for 128 x 64
       u8g2.print("C M");
       u8g2.setFont(u8g2_font_emoticons21_tr);
-      u8g2.drawGlyph(5, 25, 0x0034);  /* dec 9731/hex 2603 Snowman */
+      u8g2.drawGlyph(5, 25, 0x0034);  /* hex 34 attention */
     } while ( u8g2.nextPage() );
     delay(10);
   }
@@ -90,7 +90,7 @@ void loop()
       u8g2.setCursor(100, 20);               // Best center text for 128 x 64
       u8g2.print("C M");
       u8g2.setFont(u8g2_font_emoticons21_tr);
-      u8g2.drawGlyph(5, 25, 0x0035);  /* dec 9731/hex 2603 Snowman */
+      u8g2.drawGlyph(5, 25, 0x0035);  /* hex 35 angry man */
     } while ( u8g2.nextPage() );
     delay(10);
   }
@@ -106,7 +106,7 @@ void loop()
       u8g2.setCursor(100, 20);               // Best center text for 128 x 64
       u8g2.print("C M");
       u8g2.setFont(u8g2_font_emoticons21_tr);
-      u8g2.drawGlyph(5, 25, 0x0029);  /* dec 9731/hex 2603 Snowman */
+      u8g2.drawGlyph(5, 25, 0x0029);  /* hex 29 dead man */
     } while ( u8g2.nextPage() );
     delay(10);
   }
